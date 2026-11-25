@@ -29,7 +29,7 @@ Making a user manual, a presentation or a bug report usually means pressing the 
 **1. Get the code.** Click **Code → Download ZIP** and extract it, or clone it:
 
 ```bash
-git clone https://github.com/<your-username>/universal-capture.git
+git clone https://github.com/Ashikur07/universal-capture.git
 cd universal-capture
 ```
 
