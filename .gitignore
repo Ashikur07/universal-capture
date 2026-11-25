@@ -1,0 +1,14 @@
+# private settings (only the example is committed)
+.env
+.env.*
+*.env
+!.env.example
+
+# output and saved logins: these can contain private data
+screenshots/
+profiles/
+
+node_modules/
+*.log
+.DS_Store
+Thumbs.db
